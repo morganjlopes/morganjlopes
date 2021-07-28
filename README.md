@@ -10,6 +10,7 @@ Thought-filled software engineer and entrepreneur who understands that deliberat
 ⚡ NEW! Code School: Overcome Imposter Syndrome. Kick-start Your Career. https://www.codeschoolguide.com/book/
 
 ## Popular Writings from Morgan
+- [Annual Reflection Framework]()
 - [Bringing Humanity Back to Email](https://www.morganjlopes.com/bringing-humanity-back-to-email/)
 - [Work Life Harmony](https://www.morganjlopes.com/work-life-harmony/)
 - [Web and Mobile App Sitemap](https://medium.com/tenrocket/web-and-mobile-app-sitemap-643b60b0343e)
@@ -23,6 +24,16 @@ Thought-filled software engineer and entrepreneur who understands that deliberat
 - [Using Tech for Good](https://www.audible.com/pd/Using-Tech-for-Good-Podcast/B098PXTJHW)
 - [From Medieval Times to CEO](https://www.audacy.com/podcasts/2-minute-talk-tips-23509/ep-129-medieval-times-to-ceo-with-morgan-lopes-96455297)
 
+## Recommended Reading
+Most Influencial Books:
+- Thinking in Bets by Annie Duke
+- The Hard Thing about Hard Things by Ben Horowitz
+- E-myth by Michael Gerber
+- Peak by Anders Ericson
+- The Obstacle is the Way by Ryan Holiday
+
+- [2019 Reading List](https://www.morganjlopes.com/2019-reading-list/)
+- [2018 Reading List](https://www.morganjlopes.com/2018-annual-report/#books)
 
 <!--
 **morganjlopes/morganjlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
