@@ -1,4 +1,6 @@
-# Morgan J Lopes
+# Morgan J Lopes (Life at the intersection of Technology, Entrepreneurship, and Social Impact)
+
+CTO at Fast Company's World Most Innovative Company (x4) and Launching "Code School", a book to help more people transition into tech.  
 
 *(In order of highest activity)*
 - Linkedin: https://www.linkedin.com/in/morganjlopes/
