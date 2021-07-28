@@ -1,9 +1,9 @@
 # Morgan J Lopes
 
 *(In order of highest activity)*
-Linkedin: https://www.linkedin.com/in/morganjlopes/
-Twitter: https://twitter.com/MorganJLopes
-Website: https://www.morganjlopes.com/
+- Linkedin: https://www.linkedin.com/in/morganjlopes/
+- Twitter: https://twitter.com/MorganJLopes
+- Website: https://www.morganjlopes.com/
 
 ⚡ NEW! Code School: Overcome Imposter Syndrome. Kick-start Your Career. https://www.codeschoolguide.com/book/
 
