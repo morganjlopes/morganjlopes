@@ -1,6 +1,6 @@
 # Morgan J Lopes - Technology, Entrepreneurship, and Social Impact
 
-Thought-filled software engineer and entrepreneur who understands that deliberate, consistent progress over time is life's greatest growth strategy. Regardless of his job titles, Morgan sees leadership as a choice, not a rank. He strives to make that choice daily and challenges others to do the same. Currenty service as CTO at Fast Company's World Most Innovative Company (x4), consulting startup foundres, and Launching Book ("Code School") to help more people transition into tech.
+Thought-filled software engineer and entrepreneur who understands that deliberate, consistent progress over time is life's greatest growth strategy. Regardless of his job titles, Morgan sees leadership as a choice, not a rank. He strives to make that choice daily and challenges others to do the same. Currently serving as CTO at Fast Company's World Most Innovative Company (x4), consulting startup founders, and Launching Book ("Code School") to help more people transition into tech.  
 
 *(In order of highest activity)*
 - Linkedin: https://www.linkedin.com/in/morganjlopes/
@@ -34,6 +34,11 @@ Most Influencial Books:
 
 - [2019 Reading List](https://www.morganjlopes.com/2019-reading-list/)
 - [2018 Reading List](https://www.morganjlopes.com/2018-annual-report/#books)
+
+
+---  
+
+FYI... I use email differently. Prioritizing human interactions, I only check email twice a day and don't have notifications enabled. I do however, work to clear my inbox at least once each day. [Read more about why](https://www.morganjlopes.com/bringing-humanity-back-to-email/).
 
 <!--
 **morganjlopes/morganjlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
