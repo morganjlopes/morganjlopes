@@ -9,6 +9,10 @@ Thought-filled software engineer and entrepreneur who understands that deliberat
 
 ⚡ NEW! Code School: Overcome Imposter Syndrome. Kick-start Your Career. https://www.codeschoolguide.com/book/
 
+## Werk
+- [New Story](https://newstorycharity.org/) - Worlds First 3D Printed Home
+- [Polar Notion](https://www.polarnotion.com/) - App Development & MVPs for Founders
+
 ## Popular Writings from Morgan
 - [Annual Reflection Framework]()
 - [Bringing Humanity Back to Email](https://www.morganjlopes.com/bringing-humanity-back-to-email/)
