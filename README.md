@@ -19,7 +19,7 @@ _(In order of highest activity)_
 * [New Story](https://newstorycharity.org) - Worlds First 3D Printed Home
 * [Polar Notion](https://www.polarnotion.com) - Consulting, App Development, and MVPs for Founders
 
-## Popular Writings from Morgan
+## Popular Writings
 
 * [Annual Reflection Framework](./)
 * [Bringing Humanity Back to Email](https://www.morganjlopes.com/bringing-humanity-back-to-email/)
@@ -28,7 +28,7 @@ _(In order of highest activity)_
 * [Building a Blueprint for your Idea](https://medium.com/polar-notion/building-a-blueprint-for-your-idea-5acad1bfb6b7)
 * [How to Launch an Idea in One Month](https://medium.com/polar-notion/how-to-launch-an-idea-in-1-month-398c54d116b9)
 
-## Interviews with Morgan
+## Interviews
 
 * [Methods and Mindsets with the Chief Technology Officer at New Story](https://podcast.nonprofitmegaphone.com/622294/8188617-morgan-lopes-at-new-story)
 * [Process Optimization](https://shrimptankpodcast.com/ep-152-morgan-lopes-process-optimization/)
@@ -38,10 +38,10 @@ _(In order of highest activity)_
 
 ## Recommended Reading
 
-Most Influencial Books:
+Most Influential Books:
 
 * Thinking in Bets by Annie Duke
-* The Hard Thing about Hard Things by Ben Horowitz
+* The Hard Thing About Hard Things by Ben Horowitz
 * E-myth by Michael Gerber
 * Peak by Anders Ericson
 * The Obstacle is the Way by Ryan Holiday
