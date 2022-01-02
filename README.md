@@ -19,6 +19,10 @@ _(In order of highest activity)_
 * [New Story](https://newstorycharity.org) - Worlds First 3D Printed Home
 * [Polar Notion](https://www.polarnotion.com) - Consulting, App Development, and MVPs for Founders
 
+
+
+![](.gitbook/assets/newstory-primary-logo.png) ![](.gitbook/assets/polarnotion-primary-logo.png)
+
 ## Popular Writings
 
 * [Annual Reflection Framework](./)
