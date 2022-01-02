@@ -1,10 +1,4 @@
-# Speaking
-
-Webinars, conferences, recorded, or in-person. The goal is actionable insights that leave people energized.
-
-* No magic formula.
-* No secret recipes.
-* Real-world learnings
+# Tech Talks
 
 ### A Day in the Life of a Developer
 

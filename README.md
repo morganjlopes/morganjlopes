@@ -36,6 +36,36 @@ _(In order of highest activity)_
 * [Using Tech for Good](https://www.audible.com/pd/Using-Tech-for-Good-Podcast/B098PXTJHW)
 * [From Medieval Times to CEO](https://www.audacy.com/podcasts/2-minute-talk-tips-23509/ep-129-medieval-times-to-ceo-with-morgan-lopes-96455297)
 
+## Speaking
+
+Webinars, conferences, recorded, or in-person. The goal is actionable insights that leave people energized.
+
+No magic formula. No secret recipes. Real talk.
+
+### Founder Talks
+
+#### Finding a Technical Cofounder
+
+#### Building a Marketplace
+
+#### Creating a Tech Business Plan
+
+#### Creating an MVP
+
+#### Ways of Working
+
+#### Talking to Developers
+
+### Tech Talks
+
+#### [A Day in the Life of a Developer](speaking/tech-talks.md#a-day-in-the-life-of-a-developer)
+
+#### [How to Hack the Interview Process](speaking/tech-talks.md#how-to-hack-the-interview-process)
+
+#### [Build a Better Personal Portfolio](speaking/tech-talks.md#build-a-better-personal-portfolio)
+
+#### [Soft Skills for Software Developers](speaking/tech-talks.md#soft-skills-for-software-developers)
+
 ## Recommended Reading
 
 Most Influential Books:
