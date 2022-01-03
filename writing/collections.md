@@ -19,3 +19,4 @@
 * [Untold Costs of Building an App](https://medium.com/tenrocket/the-untold-costs-of-building-an-app-22da6e3c198f)
 * [App Feature Selection](https://medium.com/polar-notion/the-comprehensive-guide-to-app-feature-selection-173b0a0578a2)
 * [Why Ruby on Rails, still](https://medium.com/effectively-human/why-ruby-on-rails-still-c4c75e0843a6)
+* [Owning Values](https://medium.com/polar-notion/living-our-values-2c4a1bf9bd30)

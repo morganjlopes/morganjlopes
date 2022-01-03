@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Morgan J Lopes](README.md)
+* [Values & Purpose](values-and-purpose.md)
 * [Testimonials](testimonials.md)
 * [FAQ](faq.md)
 * [Freebies](freebies.md)

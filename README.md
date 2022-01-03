@@ -8,11 +8,11 @@ Thought-filled software engineer and entrepreneur who understands that deliberat
 
 _(In order of highest activity)_
 
-* Linkedin: https://www.linkedin.com/in/morganjlopes/
-* Twitter: https://twitter.com/MorganJLopes
-* Website: https://www.morganjlopes.com/
+* Linkedin: [https://www.linkedin.com/in/morganjlopes/](https://www.linkedin.com/in/morganjlopes/)
+* Twitter: [https://twitter.com/MorganJLopes](https://twitter.com/MorganJLopes)
+* Website: [https://www.morganjlopes.com/](https://www.morganjlopes.com)
 
-⚡ NEW! Code School: Overcome Imposter Syndrome. Kick-start Your Career. https://www.codeschoolguide.com/book/
+⚡ NEW! Code School: Overcome Imposter Syndrome. Kick-start Your Career. [https://www.codeschoolguide.com/book/](https://www.codeschoolguide.com/book/)
 
 ## Work
 
