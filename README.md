@@ -1,7 +1,3 @@
----
-description: Technology, Entrepreneurship, and Social Impact
----
-
 # Morgan J Lopes
 
 Thought-filled software engineer and entrepreneur who understands that deliberate, consistent progress over time is life's greatest growth strategy. Regardless of his job titles, Morgan sees leadership as a choice, not a rank. He strives to make that choice daily and challenges others to do the same. Currently serving as CTO at Fast Company's World Most Innovative Company (x4), consulting startup founders, and Launching Book ("Code School") to help more people transition into tech.
