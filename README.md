@@ -21,8 +21,6 @@ _(In order of highest activity)_
 
 
 
-![](.gitbook/assets/newstory-primary-logo.png) ![](.gitbook/assets/polarnotion-primary-logo.png)
-
 ## Popular Writings
 
 * [Annual Reflection Framework](./)
@@ -48,17 +46,17 @@ No magic formula. No secret recipes. Real talk.
 
 ### Founder Talks
 
-#### Finding a Technical Cofounder
+#### [Finding a Technical Cofounder](speaking/founder-talks.md#finding-a-technical-cofounder)
 
-#### Building a Marketplace
+#### [Building a Marketplace](speaking/founder-talks.md#building-a-marketplace)
 
-#### Creating a Tech Business Plan
+#### [Creating a Tech Business Plan](speaking/founder-talks.md#creating-a-tech-business-plan)
 
-#### Creating an MVP
+#### [Build an MVP](speaking/founder-talks.md#build-an-mvp)
 
-#### Ways of Working
+#### [Better Ways of Working](speaking/founder-talks.md#better-ways-of-working)
 
-#### Talking to Developers
+#### [Talking to Developers](speaking/founder-talks.md#talking-to-developers)
 
 ### Tech Talks
 
