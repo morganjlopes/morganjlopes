@@ -20,18 +20,50 @@ Come ready to learn, interact, and take the next step toward your tech business.
 
 _What do you need to know before building Uber-for-X or Airbnb-for-Y?_
 
+Despite marketplaces being among the most popular tech businesses, they're a challenging business to build with unique constraints and challenges. This presentation unpacks the key elements and pitfalls of building 'Uber-for-x'.&#x20;
+
+* Types of marketplace businesses
+* 3 parts of a marketplace
+* Common app features
+* Ways to make money
+* Tensions of a marketplace
+
 ### Creating a Tech Business Plan
 
 _How do I create a simple, compelling summary of my tech business?_
 
-### Creating an MVP
+* Identifying the problem
+* Articulating your solution
+* Refining your customer
+* Casting vision
+* Creating a roadmap
+* Choosing the format
+
+### Build an MVP
 
 _What are the important factors of building a fast, affordable MVP (minimal viable product)?_
 
-### Ways of Working
+* Misconceptions
+* Configure vs Customize
+* Common Trade-offs
+* Getting Traction
+* Options to Build
+
+### Better Ways of Working
 
 _How can I do more with less time and energy?_
+
+* Improving Focus
+* Planning
+* Responsiveness
+* Following Through
+* Reflection
 
 ### Talking to Developers
 
 _How do I talk with developers to move a project along and make sure our software does what I need?_
+
+* Improve communication
+* Do's and Don'ts
+* Jargon
+* Estimating Time and Complexity
