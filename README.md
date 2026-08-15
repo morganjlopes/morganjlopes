@@ -15,7 +15,26 @@ _(In order of highest activity)_
 * [New Story](https://newstorycharity.org) - Worlds First 3D Printed Home
 * [Polar Notion](https://www.polarnotion.com) - Consulting, App Development, and MVPs for Founders
 
+## Open Source Plugins
 
+Small, drop-in web plugins. No build steps, no dependencies — each with a live demo.
+
+* [chatter](https://github.com/GoBoldlyForward/chatter) - Google-Docs-style comments on any editable element ([demo](https://goboldlyforward.github.io/chatter/))
+* [croppy](https://github.com/GoBoldlyForward/croppy) - Image cropper for file inputs; the form submits the cropped result ([demo](https://goboldlyforward.github.io/croppy/))
+* [etchasketch](https://github.com/GoBoldlyForward/etchasketch) - The classic Etch-A-Sketch toy; shake your phone to clear ([demo](https://goboldlyforward.github.io/etchasketch/))
+* [hamsterwheel](https://github.com/GoBoldlyForward/hamsterwheel) - Turn any website into an infinite scroll loop ([demo](https://goboldlyforward.github.io/hamsterwheel/))
+* [highlight](https://github.com/GoBoldlyForward/highlight) - CSS text highlights: markers, underlines, scribbles, animated sweeps ([demo](https://goboldlyforward.github.io/highlight/))
+* [importly](https://github.com/GoBoldlyForward/importly) - CSV / spreadsheet column-mapping UI for file inputs ([demo](https://goboldlyforward.github.io/importly/))
+* [joycelights](https://github.com/GoBoldlyForward/joycelights) - Stranger Things Christmas-lights wall that spells out messages ([demo](https://goboldlyforward.github.io/joycelights/))
+* [keycuts](https://github.com/GoBoldlyForward/keycuts) - Opinionated keyboard shortcuts with an auto-rendered help panel ([demo](https://goboldlyforward.github.io/keycuts/))
+* [matrixrain](https://github.com/GoBoldlyForward/matrixrain) - The Matrix digital rain, themeable on canvas ([demo](https://goboldlyforward.github.io/matrixrain/))
+* [pinpoint](https://github.com/GoBoldlyForward/pinpoint) - Click-anywhere visual feedback widget, no backend required ([demo](https://goboldlyforward.github.io/pinpoint/))
+* [rankchoice](https://github.com/GoBoldlyForward/rankchoice) - Multi-select that captures choices *and* the order users rank them ([demo](https://goboldlyforward.github.io/rankchoice/))
+* [scrollmptious](https://github.com/GoBoldlyForward/scroll-plugin) - Fires callbacks based on scroll direction ([demo](https://goboldlyforward.github.io/scroll-plugin/))
+* [solitaire-victory](https://github.com/GoBoldlyForward/solitaire-victory) - The Solitaire win animation: bounce, scatter, rain, fountain, cyclone ([demo](https://goboldlyforward.github.io/solitaire-victory/))
+* [starwarsintro](https://github.com/GoBoldlyForward/starwarsintro) - The Star Wars intro crawl as a CSS library ([demo](https://goboldlyforward.github.io/starwarsintro/))
+* [turntable](https://github.com/GoBoldlyForward/turntable) - Responsive jQuery image slider ([demo](https://goboldlyforward.github.io/turntable/))
+* [uploady](https://github.com/GoBoldlyForward/uploady) - File uploads with review, rename, and remove before submit ([demo](https://goboldlyforward.github.io/uploady/))
 
 ## Popular Writings
 
